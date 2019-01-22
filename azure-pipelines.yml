@@ -16,6 +16,7 @@ steps:
     packageApp: true 
     signingOption: 'nosign'
     teamId: B233D4Y55J
-    
+    exportOptions: specify
+    exportMethod: 'development'
 
     
